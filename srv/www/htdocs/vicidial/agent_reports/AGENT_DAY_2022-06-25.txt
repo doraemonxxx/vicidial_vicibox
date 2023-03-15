@@ -1,0 +1,4 @@
+TODAY:     Saturday      2022-06-25
+
+AGENT                USER     CALLS  TALK     PAUSE    WAIT     DISPO    ACTIVE   LOGTIME  FIRST                LAST                    
+agent 1002          1002          4  0:01:02  0:08:05  0:01:42  0:00:02  0:10:51  0:10:51  2022-06-25 00:04:55  2022-06-25 00:15:46

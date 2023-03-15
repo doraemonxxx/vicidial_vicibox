@@ -1,0 +1,4 @@
+TODAY:     Thursday      2022-07-14
+
+AGENT                USER     CALLS  TALK     PAUSE    WAIT     DISPO    ACTIVE   LOGTIME  FIRST                LAST                    
+agent 1003          1003          3  0:00:03  0:00:40  0:00:00  0:00:04  0:00:47  0:13:13  2022-07-14 00:08:32  2022-07-14 00:21:45
